@@ -1,0 +1,16 @@
+# Layout
+# layout : center-right
+
+# Look-and-Feel
+logo : assets/images/logo-ember.png
+theme : night
+theme-override : assets/css/PITCHME.css
+highlight : ir-black
+
+# Behavior
+transition : slide
+published : true
+
+# # Plugins
+# charts : true
+# mathjax : TeX-AMS_HTML-full
